@@ -1,0 +1,7 @@
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.exe.config
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.exe
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\bin\Debug\ExtensionMethodProject.pdb
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csprojResolveAssemblyReference.cache
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.csproj.CoreCompileInputs.cache
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.exe
+F:\VS\ExtensionMethodProject\ExtensionMethodProject\obj\Debug\ExtensionMethodProject.pdb

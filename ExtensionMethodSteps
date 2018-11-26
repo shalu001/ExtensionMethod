@@ -1,0 +1,3 @@
+First Create a static class.
+Then Create a static Extension Method
+Remember the first parameter will be always of this type.
